@@ -1,5 +1,6 @@
 
 import numpy as np
+import pandas as pd
 
 from sploot.memory_utils import minimize_dtypes
 
